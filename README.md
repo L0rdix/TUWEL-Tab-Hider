@@ -11,7 +11,7 @@ A Violentmonkey userscript for TU Wien's TUWEL that lets you hide/show course se
 ## Installation
 1. Install [Violentmonkey](https://violentmonkey.github.io/) browser extension
 2. Click the Violentmonkey icon → "Create a new script"
-3. Replace contents with code from `tuwel-tabs-verstecken.user.js`
+3. Replace contents with code from `main.js`
 4. Save (Ctrl+S) - auto-installs on TUWEL course pages
 
 ## Usage
